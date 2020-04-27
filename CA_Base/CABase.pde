@@ -16,7 +16,7 @@ class CA {
 
     public boolean autoGenerate = false;
 
-    //Array that save each generation
+    //Array saves each generation
     private ArrayList<int[][]> generations = new ArrayList<int[][]>();
 
     private int generationIndex = 0;
