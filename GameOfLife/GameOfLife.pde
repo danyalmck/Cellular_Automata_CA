@@ -12,9 +12,9 @@ class CA {
     //Array that save each generation
     private ArrayList<int[][]> generations = new ArrayList<int[][]>();
 
-    private int generationIndex = 1;
+    private int generationIndex = 0;
 
-    private int lastGenerationIndex = 1;
+    private int lastGenerationIndex = 0;
 
     //The board that is shown
     private int[][] board;
