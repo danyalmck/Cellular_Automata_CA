@@ -1,9 +1,13 @@
-# CA_Base
-A simple base for exploring cellular automata world using processing with java syntax.
-Implement your rules and find more in the Computational Universe.
+# CA
+Explore the [world of Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton) and find more in the [Computational Universe](https://www.wolfram.com/wolfram-science/?source=nav).
 
-Press:
-'n' to see the next generation
-'p' to see the previous generation
-'r' for auto generating
-'s' to stop auto generating
+What to do:
+
+1.Install [Processing](https://processing.org/)
+
+2.Copy Display.pde to your Sketch(it must be in your sketch tab)
+
+3.Add other files to your program(maybe new tabs)
+
+4.Enjoy!
+
