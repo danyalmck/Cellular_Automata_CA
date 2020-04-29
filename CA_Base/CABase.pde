@@ -31,7 +31,7 @@ class CA {
     public CA() {
         this.columns = width/this.sizeOfCell;
         this.rows = height/this.sizeOfCell;
-        this.board = new int[this.columns][this.rows];
+        this.board = new int[this.rows][this.columns];
         this.init();
         // this.IC();
     }
@@ -45,8 +45,8 @@ class CA {
 
     //Initialize the board randomly
     public void init() {
-        for (int i = 0; i < this.columns; i++)
-            for (int j = 0; j < this.rows; j++)
+        for (int i = 0; i < this.rows; i++)
+            for (int j = 0; j < this.columns; j++)
                 this.board[i][j] = int(random(2));
 
         this.generations.add(board);
@@ -86,14 +86,14 @@ class CA {
 
     public void display() {
         //Display the board
-        for ( int i = 0; i < columns;i++) {
-            for ( int j = 0; j < rows;j++) {
+        for ( int i = 0; i < rows;i++) {
+            for ( int j = 0; j < columns;j++) {
                 if ((board[i][j] == 1))
                     fill(76, 187, 23);
                 else
                     fill(1);
                 stroke(1);
-                rect(i*this.sizeOfCell, j*this.sizeOfCell, this.sizeOfCell, this.sizeOfCell, 60, 60, 60, 60);
+                rect(j*this.sizeOfCell, i*this.sizeOfCell, this.sizeOfCell, this.sizeOfCell, 60, 60, 60, 60);
             }
         }
         //Display the generation index
@@ -103,3 +103,4 @@ class CA {
         text(this.generationIndex, width/2 - 10, 30);
     }
 }
+
