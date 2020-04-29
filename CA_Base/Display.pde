@@ -1,5 +1,4 @@
 CA ca;
-Scanner input = new Scanner(System.in);
 
 void setup() {
     fullScreen();
