@@ -4,13 +4,18 @@ Input your desired rule and initial conditoin, then run the code.
 
 Press : 'r' to generate and 's' to stop generating.
 
-**Rule 110:**
+**Rule 110**
 
+![](rule110.png)
 
-**Rule 30:**
+**Rule 30**
 
+![](rule30.png)
 
-**Rule 129:**
+**Rule 129**
 
+![](rule129.png)
 
-**Rule 218:**
+**Rule 218**
+
+![](rule218.png)
