@@ -11,7 +11,7 @@ What to do:
 
 4.Enjoy!
 
-![](GameOfLife/GameOfLife20.png)
+![Game of Life](GameOfLife/GameOfLife20.png)
 
-![](GameOfLife/GameOfLife10.png)
+![Game of Life](GameOfLife/GameOfLife10.png)
 
