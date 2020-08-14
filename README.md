@@ -5,11 +5,7 @@ What to do:
 
 1.Install [Processing](https://processing.org/)
 
-2.Copy Display.pde to your Sketch(it must be in your sketch tab)
-
-3.Add other files to your program(maybe new tabs)
-
-4.Enjoy!
+2.Enjoy!
 
 ![Game of Life](GameOfLife/GameOfLife20.png)
 
