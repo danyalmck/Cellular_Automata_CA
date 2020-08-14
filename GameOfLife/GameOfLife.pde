@@ -3,7 +3,7 @@ import java.util.*;
 class CA {
 
     //Length of each cell
-    private int sizeOfCell = 10;
+    private int sizeOfCell = 20;
 
     private int columns, rows;
 

@@ -1,7 +1,11 @@
 CA ca;
 
+public void settings() {
+  fullScreen();
+}
+
 void setup() {
-    fullScreen();
+    
     frameRate(10);
     ca = new CA();
 }
