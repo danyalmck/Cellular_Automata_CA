@@ -1,4 +1,4 @@
-**A template base for exploring.**
+**A simple template for exploring.**
 
 
 Press:
