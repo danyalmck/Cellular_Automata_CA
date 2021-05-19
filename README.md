@@ -11,3 +11,7 @@ What to do:
 
 ![Game of Life](GameOfLife/GameOfLife10.png)
 
+
+ToDO:
+1. Migrating to Js completely
+2. Refactoring
