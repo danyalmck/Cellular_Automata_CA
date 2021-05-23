@@ -7,7 +7,9 @@ What to do:
 
 2.Enjoy!
 
-![Game of Life](GameOfLife/GameOfLife20.png)
+**Rule 218**
+
+![Rule 218](WolframCA/rule218.png)
 
 ![Game of Life](GameOfLife/GameOfLife10.png)
 
