@@ -1,5 +1,11 @@
 **A simple template for exploring.**
 
+What to do:
+
+1.Install [Processing](https://processing.org/). 
+
+2.Enjoy!
+
 
 Press:
 
